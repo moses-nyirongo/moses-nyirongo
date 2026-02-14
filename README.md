@@ -11,7 +11,7 @@ Currently preparing for Internal Medicine Residency while building technical exp
 ## 🔬 Research & Professional Interests
 - Artificial Intelligence in Healthcare
 - Clinical Prediction Models
-- Chronic Disease Modeling (Diabetes, Cardiovascular Disease)
+- Chronic and Infectious Disease Modeling 
 - Population Health Informatics
 - Treatment Recommendation Systems
 - Data-Driven Healthcare Innovation
