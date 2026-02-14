@@ -1,5 +1,9 @@
 # Hi, I'm Moses Nyirongo 👋
 
+Physician working at the intersection of clinical medicine and artificial intelligence.  
+Bridging clinical medicine with machine learning to build intelligent healthcare systems.
+
+
 ## 👨🏽‍⚕️ About Me
 I am a medical doctor with clinical experience in Internal Medicine, Surgery, Obstetrics and Gynecology and Pediatrics.  
 I am passionate about the intersection of Artificial Intelligence and Healthcare, with a focus on machine learning for chronic disease prediction and clinical decision support systems.
