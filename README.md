@@ -5,19 +5,20 @@ Bridging clinical medicine with machine learning to build intelligent healthcare
 
 ## 👨🏽‍⚕️ About Me
 I am a medical doctor with clinical experience in Internal Medicine, Surgery, Obstetrics and Gynecology and Pediatrics.  
-I am passionate about the intersection of Artificial Intelligence and Healthcare, with a focus on machine learning for chronic disease prediction and clinical decision support systems.
+I am passionate about the intersection of Artificial Intelligence and Healthcare, with a focus on machine learning for chronic and infectious disease prediction and clinical decision support systems.
 
-Currently preparing for Internal Medicine Residency while building technical expertise in AI, data science, and health informatics.
+Currently preparing for Internal Medicine Residency while building technical expertise in AI, clinical data science and health informatics.
 
 
 
 ## 🔬 Research & Professional Interests
-- Artificial Intelligence in Healthcare
-- Clinical Prediction Models
-- Chronic and Infectious Disease Modeling 
-- Population Health Informatics
-- Treatment Recommendation Systems
-- Data-Driven Healthcare Innovation
+
+- Clinical prediction and risk stratification models
+- Chronic and Infectious disease modeling (e.g cardiovascular disease, Dengue fever)
+- Population health data analysis
+- Clinical decision support systems
+- Machine learning applications in internal medicine
+- Data-driven healthcare optimization
 
 
 ## 🛠 Technical Skills
