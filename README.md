@@ -32,7 +32,7 @@ Currently preparing for Internal Medicine Residency while building technical exp
 
 
 ## 🚀 Current Projects
-- 💊 Medication Adherence Mobile Application
+- Medication Adherence Mobile Application
 - Talk Track: A Voice-Assisted Note Tool for Health Records
 
 
